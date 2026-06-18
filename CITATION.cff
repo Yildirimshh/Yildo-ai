@@ -1,20 +1,21 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+
 authors:
-- family-names: HUSSEIN
-  given-names: YILDIRIM SALAHALDIN HUSSEIN
-orcid: https://orcid.org/0009-0007-7411-1503
-title: Yildo ai V1.0
-version: v1.0
+  - family-names: HUSSEIN
+    given-names: YILDIRIM SALAHALDIN
+    orcid: "https://orcid.org/0009-0007-7411-1503"
+
+title: "YILDO AI V1.0"
+version: "1.0"
 date-released: 2026-06-18
 
 abstract: >
-YILDO AI is a local desktop artificial intelligence assistant
-supporting Arabic, English, and Turkish languages with document summarization, 
-and offline AI capabilities with privacy and personal security.
+  YILDO AI is a local desktop artificial intelligence assistant
+  supporting Arabic, English, and Turkish languages with document
+  summarization and offline AI capabilities while preserving privacy.
 
 license: MIT
 
-repository-code: https://github.com/Yildirimshh/Yildo-ai
-
-url: https://github.com/Yildirimshh/Yildo-ai
+repository-code: "https://github.com/Yildirimshh/Yildo-ai"
+url: "https://github.com/Yildirimshh/Yildo-ai"
