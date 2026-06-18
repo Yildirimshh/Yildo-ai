@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+
+title: YILDO AI V1.0
+
+message: "If you use this software, please cite it as below."
+
+type: software
+
+authors:
+
+* family-names: Hussein
+  given-names: Yildirim Salahaldin
+
+version: 1.0.0
+
+date-released: 2026-06-18
+
+abstract: >
+YILDO AI is a local desktop artificial intelligence assistant
+supporting Arabic, English, and Turkish languages with OCR,
+document summarization, and offline AI capabilities.
+
+license: MIT
+
+repository-code: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
+
+url: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
