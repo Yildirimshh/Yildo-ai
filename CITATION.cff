@@ -1,18 +1,11 @@
-cff-version: 1.2.0
-
-title: YILDO AI V1.0
-
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
-
-type: software
-
 authors:
-
-* family-names: Hussein
-  given-names: Yildirim Salahaldin
-
-version: 1.0.0
-
+- family-names: HUSSEIN
+  given-names: YILDIRIM SALAHALDIN HUSSEIN
+orcid: https://orcid.org/0009-0007-7411-1503
+title: Yildo ai V1.0
+version: v1.0
 date-released: 2026-06-18
 
 abstract: >
@@ -22,6 +15,6 @@ and offline AI capabilities with privacy and personal security.
 
 license: MIT
 
-repository-code: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
+repository-code: https://github.com/Yildirimshh/Yildo-ai
 
-url: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
+url: https://github.com/Yildirimshh/Yildo-ai
