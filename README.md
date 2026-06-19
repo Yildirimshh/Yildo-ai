@@ -70,7 +70,13 @@ Processor:
 9. The system is now fully configured and ready for offline use.
 10. Start using the system.
 
----
+---------------------------------------------
+
+## Download Link
+
+https://github.com/Yildirimshh/Yildo-ai/releases/tag/V1.0.1
+
+----------------------------------------------
 
 ## Screenshots
 
