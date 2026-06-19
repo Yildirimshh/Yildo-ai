@@ -75,7 +75,7 @@ Processor:
 
 ## Download Link
 
-https://github.com/Yildirimshh/Yildo-ai/releases/tag/V1.0.1
+https://github.com/Yildirimshh/Yildo-ai/releases/tag/V.1.0
 
 ----------------------------------------------
 
