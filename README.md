@@ -107,7 +107,7 @@ and Artificial Intelligence – AI.
 If you use YILDO AI in research, publications, or academic work, please cite the software using the provided citation information.
 
 DOI:
-(https://doi.org/10.5281/zenodo.20753551)
+https://doi.org/10.5281/zenodo.20759311
 ---
 
 ## License
