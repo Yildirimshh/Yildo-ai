@@ -98,15 +98,7 @@ https://github.com/Yildirimshh/Yildo-ai/releases/tag/V.1.0
 ## Developer
 
 Inv. Yildirim Salahaldin Hussein
-Academic and the first inventor in Iraq and globally to obtain a
-patent in artificial intelligence algorithms (NLP–OCR). Achieved
-significant research and practical contributions in artificial
-intelligence, applied statistics, and programming. Holder of the
-(Inv.) – Certified Inventor title from IFIA (Geneva), with recognitions
-from OpenAI, IEEE, ScoreDetect, and OriginStamp. Developer of
-impactful AI systems (Search, Eco Predict, Chot, Smastatic) and
-author of the book Research and Advanced Technology Centers
-and Artificial Intelligence – AI.
+Academic and inventor who hold the (Inv.) – Certified Inventor from IFIA (Geneva) and globally to obtain a patent in artificial intelligence algorithms. Achieved significant research and practical contributions in artificial intelligence, LLM, applied statistics, and programming. First Iraqi, appointed in The International Society of Data Scientists ISODS as (Vice President) for Iraq with recognitions from IBM as Rising Champion, OpenAI, IEEE, ScoreDetect, and OriginStamp. Developer of impactful AI systems (Search, Eco Predict, Chot, Smastatic) and author of the book Research and Advanced Technology Centers and AI.
 ---
 
 ## Citation
