@@ -59,36 +59,32 @@ Processor:
 
 ## Installation
 
-1. Download the latest release.
-2. Run YILDO_AI_Setup.exe.
-3. Complete the installation process.
-4. Launch YILDO AI.
-5. Create an account or sign in.
-6. Start using the system.
+1. Download the latest release from the official page.
+2. Run YILDO_AI_Setup.exe and follow the installation wizard.
+3. Navigate to the Settings page within the application.
+4. Verify the Ollama status. (If Ollama is not installed, download and install it on your PC first).
+5. From the Models section. Download the specific models you require, or download all of them.
+6. Complete the remaining installation and configuration steps.
+7. Launch YILDO AI.
+8. Create a new account or sign in to your existing account.
+9. The system is now fully configured and ready for offline use.
+10. Start using the system.
 
 ---
 
 ## Screenshots
 
-### Login Screen
+### Home Page
 
-(Add image here)
+![Home](Screenshots/HomePage.png)
 
 ### Chat Interface
 
-(Add image here)
+![Chat](Screenshots/chatInerface.png)
 
-### OCR Module
+### Ai Writing Page
 
-(Add image here)
-
-### Summarization Module
-
-(Add image here)
-
-### Settings
-
-(Add image here)
+![Chat](Screenshots/AiWriting.png)
 
 ---
 
@@ -111,7 +107,7 @@ and Artificial Intelligence – AI.
 If you use YILDO AI in research, publications, or academic work, please cite the software using the provided citation information.
 
 DOI:
-[https://doi.org/10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.20753551)
+(https://doi.org/10.5281/zenodo.20753551)
 ---
 
 ## License
@@ -123,13 +119,13 @@ This project is distributed under the MIT License.
 ## Contact
 
 GitHub:
-(Add GitHub Link)
+https://github.com/Yildirimshh
 
 LinkedIn:
-(Add LinkedIn Link)
+https://iq.linkedin.com/in/inv-yildirim-s-h-492b65117
 
 Google Scholar:
-(Add Google Scholar Link)
+https://scholar.google.com/citations?user=9XP3qjYAAAAJ&hl=tr
 
 ORCID:
-(Add ORCID Link)
+https://orcid.org/0009-0007-7411-1503
