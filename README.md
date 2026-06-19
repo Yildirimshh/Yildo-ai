@@ -76,15 +76,15 @@ Processor:
 
 ### Home Page
 
-![Home](Screenshots/HomePage.png)
+![Home](Screenshots/Home_Page.png)
 
 ### Chat Interface
 
-![Chat](Screenshots/chatInerface.png)
+![Chat](Screenshots/Chat_Interface.png)
 
 ### Ai Writing Page
 
-![Chat](Screenshots/AiWriting.png)
+![Chat](Screenshots/AI_Writing.png)
 
 ---
 
