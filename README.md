@@ -71,6 +71,7 @@ Processor:
 10. Start using the system.
 
 ---------------------------------------------
+## From Assets download (Yildo.Ai.V1.0.zip)
 
 ## Download Link
 
